@@ -31,7 +31,6 @@
 ![image](https://github.com/user-attachments/assets/26d1d259-5e27-4974-b0f1-506018bb1d4e)
 
 
-> *Puedes agregar aquí una imagen de la app funcionando (PartyRock te permite tomar un Snapshot).*
 
 ---
 
