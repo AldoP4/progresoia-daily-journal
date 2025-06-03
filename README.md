@@ -25,9 +25,11 @@
 
 ---
 
-## 🖼️ Captura de la app
+## 🖼️ Captura de la app 
+👉 [ProgresoIA en PartyRock (snapshot público)](https://partyrock.aws/u/caldo/IyfOaqwae/ProgresoIA%253A-Tu-Diario-Personal-de-Desarrollo/snapshot/4F-vWq0CV)
+![image](https://github.com/user-attachments/assets/24dc8100-3126-4304-a38a-62599897129f)
+![image](https://github.com/user-attachments/assets/26d1d259-5e27-4974-b0f1-506018bb1d4e)
 
-![ProgresoIA Screenshot](ruta/del/archivo.png)
 
 > *Puedes agregar aquí una imagen de la app funcionando (PartyRock te permite tomar un Snapshot).*
 
@@ -61,8 +63,8 @@
 
 ## 📇 Autor
 
-**Carlos (Aldo Pazzi)**  
+**Aldo Pazzi**  
 Estudiante de Ingeniería en Software  
-GitHub: [@tuusuario](https://github.com/tuusuario)  
+GitHub: [@tuusuario](https://github.com/AldoP4)  
 LinkedIn: [tu perfil](https://www.linkedin.com/in/tuperfil)
 
