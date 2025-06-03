@@ -1,0 +1,21 @@
+Crea una app llamada “Diario de Progreso con IA”.
+
+Esta app permite al usuario reflexionar sobre su día y recibir retroalimentación útil. Debe tener los siguientes campos:
+
+- ¿Qué hiciste hoy?
+- ¿Qué lograste?
+- ¿Qué dificultades tuviste?
+- ¿Cómo te sentiste hoy?
+- ¿Qué aprendiste?
+- ¿Qué puedes mejorar mañana?
+- ¿Qué meta tienes esta semana?
+- ¿Quieres generar un resumen para LinkedIn? (sí o no)
+
+Con base en esas respuestas, la app debe generar:
+
+1. Un análisis tipo mentor con tono motivador.
+2. Sugerencias de mejora.
+3. Una frase corta para reflexionar.
+4. (Si el usuario lo desea) una publicación para LinkedIn.
+
+Muestra todo el resultado en un solo panel para copiar fácilmente.
