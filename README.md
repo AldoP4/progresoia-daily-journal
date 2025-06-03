@@ -64,6 +64,6 @@
 
 **Aldo Pazzi**  
 Estudiante de Ingeniería en Software  
-GitHub: [@tuusuario](https://github.com/AldoP4)  
-LinkedIn: [tu perfil](https://www.linkedin.com/in/tuperfil)
+GitHub: [@AldoP4](https://github.com/AldoP4)  
+LinkedIn: [Aldo Pazzi](https://www.linkedin.com/in/aldo-pazzi-a11391368/)
 
